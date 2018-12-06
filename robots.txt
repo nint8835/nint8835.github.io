@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rileyflynn.me/sitemap.xml
